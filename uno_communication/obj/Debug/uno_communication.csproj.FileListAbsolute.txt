@@ -1,0 +1,8 @@
+E:\Rajneesh\example\uno_communication\uno_communication\bin\Debug\uno_communication.exe.config
+E:\Rajneesh\example\uno_communication\uno_communication\bin\Debug\uno_communication.exe
+E:\Rajneesh\example\uno_communication\uno_communication\bin\Debug\uno_communication.pdb
+E:\Rajneesh\example\uno_communication\uno_communication\obj\Debug\uno_communication.exe
+E:\Rajneesh\example\uno_communication\uno_communication\obj\Debug\uno_communication.pdb
+E:\Rajneesh\example\uno_communication\uno_communication\obj\Debug\uno_communication.ProjectInstaller.resources
+E:\Rajneesh\example\uno_communication\uno_communication\obj\Debug\uno_communication.csproj.GenerateResource.Cache
+E:\Rajneesh\example\uno_communication\uno_communication\obj\Debug\uno_communication.csprojResolveAssemblyReference.cache
